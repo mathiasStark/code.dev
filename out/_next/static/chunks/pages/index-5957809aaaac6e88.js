@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[405],{5557:function(n,u,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return i(4369)}])},4369:function(n,u,i){"use strict";i.r(u);var r=i(5893);u.default=function(){return(0,r.jsx)("h1",{children:"Site pra ficar rico!"})}}},function(n){n.O(0,[774,888,179],function(){return n(n.s=5557)}),_N_E=n.O()}]);
